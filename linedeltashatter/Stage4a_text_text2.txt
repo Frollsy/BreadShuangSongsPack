@@ -1,0 +1,8 @@
+0,Text
+260.5,Now
+261,Now let
+261.5,Now let me
+262,Now let me see
+262.5,Now let me see you
+263,DANCE!
+264,{n}
