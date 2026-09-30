@@ -1,0 +1,7 @@
+#Layer
+def,-200
+#Image
+def:
+static,gus,im/guessed.png,-33100,160,30
+static,vmo,im/vmo.png,-33100,640,320
+static,gsn,im/genshin.png,-301,320,180

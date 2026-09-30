@@ -1,0 +1,8 @@
+!proxies: 0
+!obj: obj_base_gimmick
+23.5,3,outCubic,1,0,fx_glow,-1
+224,8,inCubic,0,4,particleypower,-1
+229,1,linear,0,6,fx_praticleglow,-1
+389.5,8,outCubic,2,0.1,scrollind4,-1
+389.5,8,outCubic,2,0.1,scrollind6,-1
+297,7,outCubic,1,0,uialpha,-1

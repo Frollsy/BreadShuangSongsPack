@@ -1,0 +1,9 @@
+#Layer
+def,1
+#Image
+def:
+static,whowrite,whowritepu.png,1,1220,1111
+static,sleep,sleep.jpg,1,1024,280
+static,succ,succ.jpg,1,1024,280
+static,pro,problem.jpg,1,1280,627
+static,fro,fro.png,1,1280,720

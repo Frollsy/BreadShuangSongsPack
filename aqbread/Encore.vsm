@@ -1,0 +1,21 @@
+!obj: obj_custom_gimmick
+-1,2,outExpo,_,-0.4,fish,-1
+3,1,inExpo,_,0,fish,-1
+46,2,outExpo,_,-0.4,fish,-1
+50,1,inExpo,_,0,fish,-1
+6.8,3,linear,100,100,pburstleft,-1
+10.6,3,linear,100,100,pburstright,-1
+11,3,linear,100,100,pburstleft,-1
+14.25,3,linear,100,100,pburstright,-1
+14.75,3,linear,100,100,pburstleft,-1
+18.038,1,linear,0,300,noterot,-1
+18.87,0.2,linear,300,0,noterot,-1
+20.2,10,outExpo,0,100,beat,-1
+31.17,1,linear,_,0,beat,-1
+32,1,linear,0,300,noterot,-1
+33.5,0.5,linear,_,0,noterot,-1
+36.18,3,linear,100,100,pburstleft,-1
+36.68,3,linear,100,100,pburstright,-1
+40,3,linear,100,100,pburstleft,-1
+40.5,3,linear,100,100,pburstright,-1
+44,3,linear,100,100,pburstleft,-1

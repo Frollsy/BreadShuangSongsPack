@@ -1,0 +1,16 @@
+!proxies: 3
+!obj: obj_custom_gimmick
+0,0,linear,0,0,uialpha,-1
+0,2,linear,0,1,pra,1
+0,0,linear,0,320,prcl,1
+0,4,outExpo,0.5,0.5,velocity,-1
+2.5,4,outCubic,0.5,1,velocity,-1
+176,20,inOutCubic,0,-160,pry,1
+176,20,inOutCubic,160,0,pry,0
+300.25,20,inOutCubic,-160,0,pry,1
+300.25,20,inOutCubic,0,160,pry,0
+
+0,0,inOutCubic,_,1,prx,0
+176,0,linear,0,1,pra,0
+310.25,0,linear,_,0,pra,0
+0,0,linear,0,180,prrz,0

@@ -1,0 +1,13 @@
+{
+  "id": "chart_beat_testing",
+  "title": "chart beat test",
+  "characters": {
+    "sat": { "display_name": "Saturday" }
+  },
+  "lines": [
+    {"kind":"highres","value":true},
+    { "kind": "resolution", "value":6 },
+    { "kind": "narration", "text": "Keep resolution" },
+    { "kind": "end" }
+  ]
+}

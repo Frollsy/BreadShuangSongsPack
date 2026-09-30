@@ -1,0 +1,8 @@
+#Layer
+l1,1
+
+#Image
+l1:
+static,tip1,tip1.png,1,90,100
+static,tip2,tip2.png,1,60,135
+static,jl,jl.png,1,1000,1

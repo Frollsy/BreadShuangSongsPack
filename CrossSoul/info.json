@@ -1,0 +1,41 @@
+{
+    "chart_id": "crosssoul",
+    "name": "Cross Soul",
+    "formatted_name": "Cross Soul",
+    "artist": "HyuN",
+    "bpm_display": "200",
+    "version": "1.1.1",
+    "is_original": false,
+    "is_published": true,
+    "jacket_artist": "N/A",
+    "has_encore": true,
+    "difficulty_constant_1": 0,
+    "difficulty_display_1": "0",
+    "note_designer_1": "N/A",
+    "difficulty_constant_2": 0,
+    "difficulty_display_2": "0",
+    "note_designer_2": "Frollsy",
+    "difficulty_constant_3": 0,
+    "difficulty_display_3": "0",
+    "note_designer_3": "Frollsy && breadmb",
+    "difficulty_constant_4": 0,
+    "difficulty_display_4": "8266+",
+    "note_designer_4": "Frollsy",
+    "unlock": {
+        "type": 0,
+        "enc_type": 0,
+        "per_difficulty": false,
+        "hidden": false,
+        "hint": "",
+        "enc_hint": ""
+    },
+    "enc_data":{
+    "audio_id":"music.ogg",
+    "jacket":"jacket.png",
+    "bpm_display":"200",
+    "name":"Cross Soul",
+    "formatted_name":"Cross Soul",
+    "artist":"HyuN",
+    "jacket_designer":"idk"
+}
+}
